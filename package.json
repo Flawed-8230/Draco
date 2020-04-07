@@ -1,0 +1,18 @@
+{
+  "name": "Dracotrollbox",
+  "version": "0.0.1",
+  "description": "...",
+  "main": "DracoTrollbox.js",
+  "scripts": {
+    "start": "node DracoTrollbox.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "socket.iopackagename": "^2.3.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
